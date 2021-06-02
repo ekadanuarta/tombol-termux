@@ -1,1 +1,1 @@
-# tombol-termux
+# tombol tambahan untuk termux
